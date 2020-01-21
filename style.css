@@ -1,3 +1,8 @@
+@font-face 
+{
+    font-family: 'Amble-regular';
+    src: url('../fonts/Amble-Regular.ttf')  format('truetype');
+}
 body
 {
 	width: 500px;
@@ -31,4 +36,12 @@ a:hover
 	color: blue;
 	font-weight: bold;
 	
+}
+.ghassen
+{
+	font-size: large;
+	font-weight: bolder;
+	color: darkblue;
+	font-family: "Amble-regular";
+
 }
