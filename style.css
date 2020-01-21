@@ -37,6 +37,12 @@ a:hover
 	font-weight: bold;
 	
 }
+ol
+{
+  list-style: upper-roman;
+  color: darkblue;
+
+
 .ghassen
 {
 	font-size: large;
