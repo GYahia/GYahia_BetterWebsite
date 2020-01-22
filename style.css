@@ -1,7 +1,7 @@
 @font-face 
 {
     font-family: 'Amble-regular';
-    src: url('../fonts/Amble-Regular.ttf')  format('truetype');
+    src: url('fonts/Amble-Regular.ttf')  format('truetype');
 }
 body
 {
